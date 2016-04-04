@@ -10,7 +10,7 @@ To run the program, we suggest you use Windows, since it depends on Windows liba
 
 If you organize the project under Visual Studio:
 
- 1. Make sure OpenGL is correctly configures.
+ 1. Make sure OpenGL is correctly configured.
  2. Include all *.h files in your project.
  3. Add all *.cpp to your project.
  4. Ensure that your project finds the directory that store images.
