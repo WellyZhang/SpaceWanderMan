@@ -6,6 +6,9 @@ Not only crash detection is implemented throught OpenGL, but also **_Wormhole Ef
 
 # Requirement
 
+* Windows
+* OpenGL
+
 To run the program, we suggest you use Windows, since it depends on Windows libaraies.
 
 If you organize the project under Visual Studio:
